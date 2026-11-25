@@ -1,0 +1,8 @@
+# NetOkur sürümleri. NetOkur programının "Güncellemeleri denetle" işlevi bu dosyayı okur.
+# Her satır: ad<TAB>sürüm<TAB>indirme sayfası. Yeni bir sürüm çıkınca yalnızca o satır değişir.
+Surucu	2026.11	https://github.com/ersalih51/netokur/releases/tag/v2026.11
+NetOkur_Gul16k	2026.11	https://github.com/ersalih51/netokur/releases/tag/v2026.11
+NetOkur_Gul16k_HV_Premium	2026.11	https://github.com/ersalih51/netokur/releases/tag/v2026.11
+NetOkur_Sinan16k_HV_Premium	2026.11	https://github.com/ersalih51/netokur/releases/tag/v2026.11
+NetOkur_Levent16k	2026.11	https://github.com/ersalih51/netokur/releases/tag/v2026.11
+NetOkur_Ersin16k	2026.11	https://github.com/ersalih51/netokur/releases/tag/v2026.11
